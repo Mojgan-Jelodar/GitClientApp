@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Dashboard</string>
+	</dict>
+	<key>followers</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Followers</string>
+	</dict>
+	<key>following</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Following</string>
+	</dict>
+</dict>
+</plist>
